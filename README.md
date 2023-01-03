@@ -66,6 +66,13 @@ RTL realization
 
 ### Output:
 ### RTL
+### HALF ADDER
+![exp2002](https://user-images.githubusercontent.com/113975318/210371946-b52fef14-a226-4d57-beaf-550ff748a0c1.png)
+### FULL ADDER
+![exp2003](https://user-images.githubusercontent.com/113975318/210372182-c6e0ef71-86f7-4b72-8782-f50dfa6baa45.png)
+
+
+
 
 ### TIMING DIAGRAM
 ![exp2004](https://user-images.githubusercontent.com/113975318/210371270-ae141754-93e3-4bf3-8035-dabaa478bce7.png)
@@ -73,5 +80,9 @@ RTL realization
 
 
 ### TRUTH TABLE 
+![exp2005](https://user-images.githubusercontent.com/113975318/210372225-3d2dfbdc-1583-44ef-9690-b7ef7e9e1808.png)
+
+
 
 ### Result:
+Thus the half adder and full adder are studied and the truth table for different logic gates are verified.

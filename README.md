@@ -39,12 +39,9 @@ If the output is 1, then the led glows.
 ```
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: vinush.cv
+RegisterNumber:  22001897
 */
-Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: Bejin.B
-RegisterNumber:22001908
 Program:
 #Half adder :
 module exptwo(a,b,sum,carry);
@@ -62,11 +59,17 @@ assign carry = ((a&b)|(b&c)|(c&a));
 endmodule
 ```
 Logic symbol & Truthtable
+![exp2001](https://user-images.githubusercontent.com/113975318/210370959-51311939-a22c-49ca-ba51-0857ef373dcc.jpg)
+
 RTL realization
+
 
 ### Output:
 ### RTL
+
 ### TIMING DIAGRAM
+![exp2004](https://user-images.githubusercontent.com/113975318/210371270-ae141754-93e3-4bf3-8035-dabaa478bce7.png)
+
 
 
 ### TRUTH TABLE 
